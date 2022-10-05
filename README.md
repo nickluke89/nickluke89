@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on engineering and security roles at MessageBird 
+- 🔭 I’m working on engineering and security roles at MessageBird 
 - 🌱 I’m currently learning AWS
-- 💬 Ask me about technicla sourcing 
+- 💬 Ask me about technical sourcing 
 - 📫 How to reach me: hello@nickld.co.uk
 - 😄 Pronouns: he/him
 
