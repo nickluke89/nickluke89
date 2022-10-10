@@ -6,7 +6,6 @@
 - 📫 How to reach me: hello@nickld.co.uk
 - 😄 Pronouns: he/him
 
- [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/nick-dickinson-techrecruiter"
