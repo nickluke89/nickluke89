@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[<img src="https://raw.githubusercontent.com/nickluke89/nickluke89/master/intro.gif" alt="👋 Hi there! I'm (Nick(luke89|nd Li)|https://nick.li)" title="👋 Hi there! I'm (Nick(luke89|nd Li)|https://nick.li)"/>](https://nick.li/)
+
 - 🔭 I’m working on engineering and security roles at MessageBird 
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about technical sourcing 
