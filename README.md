@@ -1,5 +1,3 @@
-header.png
-
 ### Hi there 👋
 
 - 🔭 I’m working on engineering and security roles at MessageBird 
