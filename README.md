@@ -7,7 +7,7 @@
 <br />
 
 - 🔭 I’m working on (remote) Engineering, Security, Cloud & Infrastructure roles 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS serverless 
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
   
