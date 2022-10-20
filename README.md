@@ -4,6 +4,7 @@
 </em></p>
                            
                            
+                           
 
 - 🔭 I’m working on (remote) Engineering, Security, Cloud & Infrastructure roles 
 - 🌱 I’m currently learning AWS
@@ -13,6 +14,7 @@
 - 📧 hello@nickld.co.uk 
 - 👾 Reddit: Nicktron22 
 - 👽 Discord: Nicktron22 
+  
   
   
   ### Skills I hire for...
