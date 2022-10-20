@@ -11,9 +11,12 @@
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
   
+  <br />
+  :inbox_tray: Contact me: 
+  
        📧 hello@nickld.co.uk 
-- 👾 Reddit: Nicktron22 
-- 👽 Discord: Nicktron22 
+       👾 Reddit: Nicktron22 
+       👽 Discord: Nicktron22 
   
   
   <br />
