@@ -27,6 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
 
+  <br />
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>. If you'd like to say <b>hi, or hear more about life at MessageBird, I'll be happy to meet you!</b> 😃 </em> 
 
