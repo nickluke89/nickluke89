@@ -12,7 +12,7 @@
 - 😄 Pronouns: he/him
   
   <br />
-  :inbox_tray: Contact me: 
+- :inbox_tray: Contact me: 
   
        💻 [LinkedIn](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)  
        📧 hello@nickld.co.uk 
