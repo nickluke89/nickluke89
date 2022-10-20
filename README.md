@@ -2,10 +2,7 @@
 <p><em> Tech Recruiter at <a href="https://www.messagebird.com/en/">MessageBird  
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-<img src=""[https://giphy.com/embed/4MjuRP1dIfy0g]" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-                                                                                                                                          
+                                                                                                                       
 
 ### Hi there 👋
 
