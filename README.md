@@ -17,5 +17,5 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>. If you'd like to say <b>hi, or hear more about life at MessageBird, I'll be happy to meet you!</b> 😃 </em> 
 
   
-  
-<a href="(https://a.goodtime.io/w/messagebird/nicholas.dickinson/google-hangout/intro?linkSource=chrome-extension)"target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+  <a href="https://a.goodtime.io/w/messagebird/nicholas.dickinson/google-hangout/intro?linkSource=chrome-extension" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
