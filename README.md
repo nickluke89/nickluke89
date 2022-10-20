@@ -3,8 +3,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<img src=""https://giphy.com/embed/d3YIbnTjjxiOCQnK" width="50"></h2>
+<img src=""[https://giphy.com/embed/d3YIbnTjjxiOCQnK](https://giphy.com/gifs/walk-wizard-d3YIbnTjjxiOCQnK)" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+                                                                                               
+                                                                                               
 
 ### Hi there 👋
 
