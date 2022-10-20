@@ -14,7 +14,7 @@
   <br />
 - :inbox_tray: Contact me: 
   
-       💻 [LinkedIn](www.linkedin.com/in/nick-dickinson-techrecruiter/)
+       💻 [LinkedIn](www.linkedin.com/in/nick-dickinson-techrecruiter)
        📧 hello@nickld.co.uk 
        👾 Reddit: Nicktron22 
        👽 Discord: Nicktron22 
