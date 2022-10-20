@@ -13,14 +13,11 @@
   
   <br />
 :inbox_tray: Contact me: 
-  
-      👾 Reddit: Nicktron22 
-      👽 Discord: Nicktron22 
+
   
 [![Gmail Badge](https://img.shields.io/badge/-MessageBird-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@messagebird.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Nick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-dickinson-techrecruiter/)](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
 [![Twitter Badge](https://img.shields.io/badge/-@NickMsgBird-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=NickMsgBird "Follow on Twitter")
-
 [![Gmail Badge](https://img.shields.io/badge/-Personal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:hello@nickld.co.uk )
 
   
