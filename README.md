@@ -20,9 +20,16 @@
       👽 Discord: Nicktron22 
   
 [![Gmail Badge](https://img.shields.io/badge/-nick.dickinson@messagebird.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Nick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nick-dickinson-techrecruiter/)](www.linkedin.com/in/nick-dickinson-techrecruiter/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/minoveaz)
+[![Linkedin Badge](https://img.shields.io/badge/-Nick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-dickinson-techrecruiter/)](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
+
+
+  
 [![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=minoveaz "Follow on Twitter")
+  
+  
+  [![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/minoveaz/)
+
   
   <br />
   
