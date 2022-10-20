@@ -11,7 +11,7 @@
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
   
-≥ 📧 hello@nickld.co.uk 
+≥ ≥📧 hello@nickld.co.uk 
 - 👾 Reddit: Nicktron22 
 - 👽 Discord: Nicktron22 
   
