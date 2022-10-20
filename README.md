@@ -12,12 +12,12 @@
 - 😄 Pronouns: he/him
   
   <br />
-- :inbox_tray: Contact me: 
+:inbox_tray: Contact me: 
   
-       💻 [Nick](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
-       📧 hello@nickld.co.uk 
-       👾 Reddit: Nicktron22 
-       👽 Discord: Nicktron22 
+      💻 [Nick](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
+      📧 hello@nickld.co.uk 
+      👾 Reddit: Nicktron22 
+      👽 Discord: Nicktron22 
   
   
   <br />
