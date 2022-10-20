@@ -5,7 +5,7 @@
                            
                            
 
-- 🔭 I’m working on engineering and security roles at MessageBird 
+- 🔭 I’m working on (remote) Engineering, Security, Cloud & Infrastructure roles 
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
@@ -14,3 +14,4 @@
 - 👾 Reddit: Nicktron22 
 - 👽 Discord: Nicktron22 
  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
