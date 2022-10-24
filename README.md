@@ -49,4 +49,4 @@
 ##### *Please make sure you add your name and agenda for the call!*
 
   
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=nickluke89.nickluke89)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nickluke89.nickluke89) 
