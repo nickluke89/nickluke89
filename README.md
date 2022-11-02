@@ -39,7 +39,7 @@
 
   <br />
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>. If you'd like to say <b>hi, or hear more about life at MessageBird, I'll be happy to meet you!</b> 😃 </em> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>. If you'd like to say <b>hi, or hear more about life at MessageBird, I'll be happy to meet you! 😃 </b>  </em> 
 
   
 
