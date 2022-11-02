@@ -34,7 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
 
 
 
