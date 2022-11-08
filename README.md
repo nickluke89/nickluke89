@@ -11,8 +11,12 @@
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
   
+    ### Recruiter Tech Stack 
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
+  
   <br />
-:inbox_tray: Contact me: 
+:inbox_tray: Contact me-
 
   
 [![Gmail Badge](https://img.shields.io/badge/-MessageBird-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@messagebird.com)
@@ -20,9 +24,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@NickMsgBird-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=NickMsgBird "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-Personal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:hello@nickld.co.uk )
   
-  ### Recruiter Tech Stack 
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
 
   
   <br />
