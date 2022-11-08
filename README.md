@@ -14,7 +14,7 @@
 
   
   <br />
- ### 📥 Contact me 📥 
+ ### Contact me 📥 
 
   
 [![Gmail Badge](https://img.shields.io/badge/-MessageBird-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@messagebird.com)
@@ -26,7 +26,7 @@
   
   <br />
   
-  ### Skills I hire for...
+ ### Skills I hire for 🚀 
  
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
@@ -42,9 +42,10 @@
 
    <br />
  ### Recruiter Tech Stack 
+
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
   
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
 
 
   <br />
