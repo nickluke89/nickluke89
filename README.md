@@ -18,7 +18,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
   
   <br />
-:inbox_tray: Contact me-
+ ### Contact me
 
   
 [![Gmail Badge](https://img.shields.io/badge/-MessageBird-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@messagebird.com)
