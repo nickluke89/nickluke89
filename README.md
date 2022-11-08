@@ -41,11 +41,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
    <br />
- ### Recruiter Tech Stack 
 
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
+### Recruiter Tech Stack 
+
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
   
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 
   <br />
