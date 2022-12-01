@@ -6,7 +6,7 @@
                            
 <br />
 
-- 🔭 I’m working on Engineering, Security, Cloud & Infrastructure (remote) roles 
+- 🔭 I’m working on Engineering, Security, Cloud & Infrastructure roles 
 - 🌱 I’m currently learning AWS Serverless 
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
