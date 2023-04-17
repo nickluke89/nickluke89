@@ -17,7 +17,7 @@
  ### Contact me 📥 
 
   
-[![Gmail Badge](https://img.shields.io/badge/-Fortis Games-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@fortisgames.com)
+[![Gmail Badge](https://img.shields.io/badge/-FortisGames-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:nick.dickinson@fortisgames.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Nick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-dickinson-techrecruiter/)](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
 [![Twitter Badge](https://img.shields.io/badge/-@remotetechmind-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=remotetechmind "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-Personal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:hello@nickld.co.uk )
