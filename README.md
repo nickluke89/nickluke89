@@ -1,12 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste) 🙏 ,  I'm Nick!  
-<p><em> Tech Recruiter at <a href="https://www.fortisgames.com/">Fortis Games  
+<p><em> Sr Tech Recruiter at <a href="https://www.fortisgames.com/">Fortis Games  
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
                            
                            
 <br />
 
-- 🔭 I’m working on Engineering, Security, Cloud & Infrastructure roles 
+- 🔭 I’m working on Engineering, Product and QA roles. 
 - 🌱 I’m currently learning AWS Serverless 
 - 💬 Ask me about technical sourcing 
 - 😄 Pronouns: he/him
