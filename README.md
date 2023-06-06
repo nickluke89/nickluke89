@@ -41,7 +41,7 @@
 
    <br />
 
-### Recruiter Tech Stack :boom:
+### Recruiter tech stack :boom:
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
